@@ -73,6 +73,7 @@ p {
 
 footer {
   background: #fff;
+  display: block;
 }
 
 .small {
