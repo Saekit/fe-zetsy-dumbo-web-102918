@@ -39,7 +39,7 @@ header a {
 
 #featured img {
   border: 5px rgb(152, 173, 166) solid;
-  display: block;
+  display: inline-block;
   width: 100%;
   margin: 0 auto;
 }
