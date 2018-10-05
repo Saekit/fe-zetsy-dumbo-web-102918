@@ -1,3 +1,4 @@
+
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
@@ -17,27 +18,28 @@ body {
 }
 
 .wrapper {
-	width: 960px;
+	max-width: 960px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
+
 h1 {
-  color: rgb(152,173,166);
-  font-weight: normal;
-  font-size: 5em;
+  text-decoration: none;
+  display:block;
   margin: 0 0 5px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ccc;
-  display:block;
-  text-decoration: none;
-  font-family: "Baskerville", serif;
 }
 
+.basker-font {
+  font: normal 5em "Baskerville", serif;
+  color: rgb(152,173,166);
+}
 
-#featured img {
+img {
   border: 5px rgb(152, 173, 166) solid;
 }
 
@@ -70,10 +72,10 @@ a {
 }
 
 footer {
-  text-align: right;
   background: #fff;
 }
 
 .small {
   font-size: 0.8em;
+  text-align: right;
 }
