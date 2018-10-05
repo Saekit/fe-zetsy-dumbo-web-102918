@@ -35,6 +35,7 @@ h1 {
 }
 
 .basker-font {
+  text-decoration: none;
   font: normal 5em "Baskerville", serif;
   color: rgb(152,173,166);
 }
