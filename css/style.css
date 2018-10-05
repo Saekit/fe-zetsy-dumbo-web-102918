@@ -39,8 +39,9 @@ h1 {
   color: rgb(152,173,166);
 }
 
-img {
+#feature img {
   border: 5px rgb(152, 173, 166) solid;
+  margin: 0 auto;
 }
 
 h2 {
