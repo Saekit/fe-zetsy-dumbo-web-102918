@@ -20,7 +20,7 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 20px 20px;
+	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
@@ -28,8 +28,8 @@ body {
 header a {
   text-decoration: none;
   display:block;
-  padding: 0 20px 20px;
-  
+ 
+  padding-bottom: 10px;
   border-bottom: 1px solid #ccc;
   font: normal 3em 'Baskerville', serif;;
   color: rgb(152,173,166);
