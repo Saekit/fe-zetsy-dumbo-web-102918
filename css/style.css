@@ -37,7 +37,7 @@ h1 {
   border: 5px rgb(152, 173, 166) solid;
   display: block;
   margin-left: 0;
-  margin-right: auto;
+  margin-right: 0;
 }
 
 h2 {
