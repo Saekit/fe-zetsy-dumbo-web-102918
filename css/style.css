@@ -22,7 +22,7 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+header a {
   text-decoration: none;
   display:block;
   margin: 0 0 5px;
