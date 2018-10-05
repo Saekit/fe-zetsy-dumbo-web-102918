@@ -29,12 +29,13 @@ h1 {
   margin: 0 0 5px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ccc;
-}
-
-.basker-font {
   text-decoration: none;
   font: normal 5em 'Libre Baskerville', serif;;
   color: rgb(152,173,166);
+}
+
+.basker-font {
+
 }
 
 #featured img {
