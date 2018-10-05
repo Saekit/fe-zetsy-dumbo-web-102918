@@ -65,6 +65,7 @@ p {
 #press img {
   border: 5px #ccc solid;
   padding: 1px;
+  position: inline-block;
 }
 #press img:hover {
   border: 5px rgb(146,175,166) solid;
