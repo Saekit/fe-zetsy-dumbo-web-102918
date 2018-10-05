@@ -41,7 +41,7 @@ h1 {
 
 #featured img {
   border: 5px rgb(152, 173, 166) solid;
-  display: block;
+  float: left;
   margin: 0 auto;
 }
 
