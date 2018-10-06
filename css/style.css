@@ -42,14 +42,14 @@ header a {
 
 #featured img {
   border: 5px rgb(152, 173, 166) solid;
-  display: inline-block;
+  display: block;
   
 }
 
 h2 {
   color: rgb(111,127,122);
   font-size: 2em;
-  display: inline-block;
+  display: block;
   font-weight: bold;
 }
 
