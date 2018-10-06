@@ -25,13 +25,13 @@ body {
 
 /* Write all remaining styles here */
 header {
-  display: inline-block;
+  display: block;
   margin: 0 auto;
 }
 
 header a {
   text-decoration: none;
-  display: inline-block;
+  display: block;
   padding-bottom: 10px;
   border-bottom: 1px solid #ccc;
   font: normal 3em 'Baskerville', serif;;
